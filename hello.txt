@@ -1,0 +1,6 @@
+declare
+    v_c_teste char(1)
+    v_d_text varchar
+    v_c_blabla number
+    v_d_sasas char(2)
+begin
